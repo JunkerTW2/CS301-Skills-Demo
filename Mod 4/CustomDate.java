@@ -49,6 +49,10 @@ public class CustomDate {
                 return year % 4 == 0 && year % 100 != 0 || year % 400 == 0;
         }
 
+        public String toString() {
+                return month + "/" + day + "/" + year;
+        }
+
         static void main() {
                 CustomDate d1 = new CustomDate(7, 4, 1989);
                 CustomDate d2 = new CustomDate(9, 23, 1997);
