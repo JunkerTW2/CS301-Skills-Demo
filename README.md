@@ -9,9 +9,14 @@ Homework code for Olympic College CS301.
 - Mod 4
 - Mod 5
 - Mod 6
+- Mod 7
+- Mod 8
 
 ## Deterministic Finite Automata
 ![DFA.png](https://github.com/JunkerTW2/CS301-Skills-Demo/blob/main/Mod%206/DFA.png)
 
 ## Nondeterministic Finite Automata
 ![NFA.png](https://github.com/JunkerTW2/CS301-Skills-Demo/blob/main/Mod%206/NFA.png)
+
+## Hexadecimal Addition
+![hexadecimalAddition.png](https://github.com/JunkerTW2/CS301-Skills-Demo/blob/main/Mod%208/hexadecimalAddition.png)
